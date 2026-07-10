@@ -4,14 +4,14 @@
 
 ---
 
-## 👥 팀 구성 및 역할
+## 👥 프로젝트 과정
 
-| 이름 | 역할 |
-|------|------|
-| 서연 | 웹 크롤링 (Playwright + Crawlee) |
-| **손시영** | **DB 설계 및 저장 · EDA · 시각화** |
-| 이주아 | NLP 감성 분석 · Value Score 설계 |
-| 최현서 | 프론트엔드 구현 |
+| 과정 |
+|------|
+| 웹 크롤링 (Playwright + Crawlee) |
+| **DB 설계 및 저장 · EDA · 시각화** |
+| NLP 감성 분석 · Value Score 설계 |
+| 프론트엔드 구현 |
 
 ---
 
@@ -22,7 +22,7 @@ oliveyoung-skincare/
 ├── crawling/
 │   └── crawler.js                  # 올리브영 크롤러 (Playwright + Crawlee)
 ├── database/
-│   └── EDA_oyskincare.ipynb        # DB 저장 · 전처리 · EDA ← 손시영 담당
+│   └── EDA_oyskincare.ipynb        # DB 저장 · 전처리 · EDA 
 ├── nlp/
 │   └── nlp_pipeline.ipynb          # 감성 분석 · Value Score 계산
 ├── frontend/
